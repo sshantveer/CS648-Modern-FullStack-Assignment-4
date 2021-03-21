@@ -12,7 +12,9 @@ Simple inventory application with MongoDB, REACT, EXPRESS , NODEJS and GRAPHQL!
 - Starting API server : Go to /api
     - npm install
     - npm start
+    - Starts server on 3000 port
 
 - Starting UI server : Go to /ui
     - npm install
     - npm start
+    - Starts server on 8000 port - http://localhost:8000/
